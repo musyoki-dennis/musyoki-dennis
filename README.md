@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dennis 👋
 
-<!--
-**musyoki-dennis/musyoki-dennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT student in Kenya | I build custom MT5 trading bots and automation tools**
 
-Here are some ideas to get you started:
+I turn trading strategies into tested MetaTrader 5 Expert Advisors (MQL5), with clean code, backtesting, and clear documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Convert your trading strategy into a working MT5 EA
+- Improve or fix an existing EA
+- Build automation tools that save time
+
+## Featured projects
+- Coming soon
+
+## Get in touch
+- Email: (add your email)
+
+*My work is for education and software development. It is not financial advice.*
