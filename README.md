@@ -10,9 +10,9 @@ I turn trading strategies into tested MetaTrader 5 Expert Advisors (MQL5), with 
 - Build automation tools that save time
 
 ## Featured projects
-- Coming soon
+- - [ROBOTchattyV2](https://github.com/musyoki-dennis/robot-chattyv2): MT5 Expert Advisor for small accounts, with a live on-chart dashboard
 
 ## Get in touch
-- Email: (add your email)
+- Email: musyokidennis420@gmail.com
 
 *My work is for education and software development. It is not financial advice.*
